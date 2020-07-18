@@ -1,0 +1,19 @@
+
+AtlasHadar.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hadar1
+  rotate: false
+  xy: 0, 459
+  size: 545, 459
+  orig: 545, 459
+  offset: 0, 0
+  index: -1
+hadar2
+  rotate: false
+  xy: 0, 0
+  size: 545, 459
+  orig: 545, 459
+  offset: 0, 0
+  index: -1

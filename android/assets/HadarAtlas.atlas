@@ -1,0 +1,19 @@
+
+HadarAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hadari1
+  rotate: false
+  xy: 0, 472
+  size: 544, 477
+  orig: 544, 477
+  offset: 0, 0
+  index: -1
+hadari2
+  rotate: false
+  xy: 0, 0
+  size: 543, 472
+  orig: 543, 472
+  offset: 0, 0
+  index: -1
