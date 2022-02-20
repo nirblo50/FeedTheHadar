@@ -1,40 +1,21 @@
-# Python Web-Project using Flask
+# Feed The Hadar
 
 ##  About this project
 ```bash
-This project is a Web-app that allows users to publish posts and view other user's posts.  
+This project is an Android-game, the Purpose of the game is to eat as many vegetarian food as you can without eating meat.
+This game was made by me as a joke for my girlfriend (she is the girl that eats) so I didn't do alot of documentation.
+There is a video of how the game runs in the project file - Feed_The_Hadar.mp4
 ```
 ##  Features
 ```bash
-1. User management: Sign-up / Login / Logout
-2. User interface: Navbar / Buttons / Forms
-3. Publishing posts and viewing other user's posts
-4. Database (SQLAlchemy): Save users, prefferences and Posts
+1. Android game
+2. Tilting the device to play
+3. High score saves
 ```
 
 
 ### Setup & Installation
 
-Make sure you have Python version of 3.9 or above installed.
+It was in the android store but it was taken down because I did not add privecy policiy.
+There is an APK file in the Git project
 
-
-```bash
-Requirements:
---------------
-1. flask
-2. Flask-SQLAlchemy
-3. flask-login
-4. werkzeug
-```
-
-### Running The App
-
-```bash
-python main.py
-```
-
-### Viewing The Website
-```bash
-After running the app go to:
-http://127.0.0.1:5000
-```
