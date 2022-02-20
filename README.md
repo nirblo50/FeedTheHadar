@@ -15,7 +15,7 @@ There is a video of how the game runs in the project file - Feed_The_Hadar.mp4
 
 
 ### Setup & Installation
-
+```bash
 It was in the android store but it was taken down because I did not add privecy policiy.
 There is an APK file in the Git project
-
+```
