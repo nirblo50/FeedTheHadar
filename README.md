@@ -1,5 +1,8 @@
 # Feed The Hadar
 
+<img align="center" alt="Coding" src="feed_the_hadar_running.gif" height="300">
+
+
 ##  About this project
 ```bash
 This project is an Android-game, the Purpose of the game is to eat as many vegetarian food as you can without eating meat.
